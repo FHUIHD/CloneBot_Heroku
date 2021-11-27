@@ -16,8 +16,6 @@
 - Bypass the 750Gb a day limit thanks to Service accounts
 - Duplicate team drive
 - Copy public folders & files to team drives
-- [Host it to Railway]
-- [Host it to Qovery]
 - [Host it to heroku](https://github.com/FHUIHD/CloneBot_Heroku)
 
 #### ❌ Drawbacks
